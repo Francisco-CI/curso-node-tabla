@@ -7,4 +7,3 @@ Options:
   -b, --base                                                 [number] [required]
   -l, --listar   lista archivo                        [boolean] [default: false]
   -h, --hasta    lista hasta el valor indicado            [number] [default: 15]
-```
