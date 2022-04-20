@@ -1,7 +1,8 @@
 # Notas:
 Mi primer programa en Node
+
 ```
-Options:
+Opciones:
       --help     Show help                                             [boolean]
       --version  Show version number                                   [boolean]
   -b, --base                                                 [number] [required]
